@@ -1,0 +1,202 @@
+[
+  {
+    "QRType": "XLS Fire Alarm",
+    "video_link": "https://www.youtube.com/watch?v=wL80cHOJaf8",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/XLS4000%20FireAlarm.pdf",
+    "website_url": "https://buildings.honeywell.com/us/en/solutions/fire",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/XLS4000FireAlarm.jpg",
+    "booking_url": "https://buildings.honeywell.com/us/en/support/contact-sales"
+  },
+  {
+    "QRType": "Flow Meter",
+    "video_link": "https://www.youtube.com/watch?v=ljB4nexHwlk",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/FlowMeterManual.pdf",
+    "website_url": "https://process.honeywell.com/us/en/products/field-instruments/pressure-transmitters/smartline-st700-pressure-transmitters/differential-pressure-transmitter-smartline-std700",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/FlowMeterDrawing.jpg",
+    "booking_url": "https://process.honeywell.com/us/en/contact-us/contact-form?pg=differential-pressure-transmitter-smartline-std700"
+  },
+  {
+    "QRType": "Water Injection Pump",
+    "video_link": "https://www.youtube.com/watch?v=XpcCUtYzwy0",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Pump-PBPS-100.pdf",
+    "website_url": "https://ifsolutions.com/products/water-injection-pump-package/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/PumpDrawing.jpg",
+    "booking_url": "https://ifsolutions.com/contact-us/"
+  },
+  {
+    "QRType": "Heat Exchange Unit",
+    "video_link": "https://www.youtube.com/watch?v=-SZiXB20V24",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Heat-exchanger.pdf",
+    "website_url": "https://aager.de/ergil/heat-exchangers/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Heat-Exchange-Drawing.jpg",
+    "booking_url": "https://aager.de/contact/"
+  },
+  {
+    "QRType": "Oil and Gas Separator",
+    "video_link": "https://www.youtube.com/watch?v=sPDvpZiIX7o",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/OilandGasProductionSeparator.pdf",
+    "website_url": "https://www.hcpetroleum.hk/product-detail/Oil-Gas-Production-Separator",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Oilngasproductionseparator.jpg",
+    "booking_url": "https://www.hcpetroleum.hk/contact-us"
+   },
+  {
+    "QRType": "Solenoid Valve",
+    "video_link": "https://www.youtube.com/watch?v=QvdELMnjzEc",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/SolenoidValveManual.pdf",
+    "website_url": "https://process.honeywell.com/us/en/products/thermal-solutions/fuel-and-air-delivery/control-valves/control-valves-rv-control-valves-with-solenoid-valve-rvs",
+    "map_url": "",
+    "booking_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/SolenoidValve.jpg"
+  },
+  {
+    "QRType": "Hermetic Booster",
+    "video_link": "https://www.youtube.com/watch?v=bKT1pLVln_s",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/HermeticBoosterDatasheet.pdf",
+    "website_url": "https://process.honeywell.com/us/en/products/thermal-solutions/fuel-and-air-delivery/blowers-and-boosters/hermetic-booster",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/HermeticBoosterDrawing.jpg",
+    "booking_url": "https://process.honeywell.com/us/en/contact-us/contact-form"
+  },
+  {
+    "QRType": "SCADA PKS",
+    "video_link": "https://www.youtube.com/watch?v=ATOUszt4zl4",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/ScadaDatasheet.pdf",
+    "website_url": "https://process.honeywell.com/us/en/products/control-and-supervisory-systems/scada/experion-pks",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Scadasystem.jpg",
+    "booking_url": "https://process.honeywell.com/us/en/contact-us"
+  },
+  {
+    "QRType": "Control Logix PLC",
+    "video_link": "https://www.youtube.com/watch?v=mnFqsVDYR9w",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/ControlLogixPLC.pdf",
+    "website_url": "https://configurator.rockwellautomation.com/configurator/C079B119B284433C88C06F1CF7810451",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/ControlLogixPLC.jpg",
+    "booking_url": "https://www.rockwellautomation.com/en-us/company/about-us/contact-us.html"
+  },
+  {
+    "QRType": "PowerFlex VFD",
+    "video_link": "https://www.youtube.com/watch?v=eOPj1Sg4vT8",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/PowerFlexVFD.pdf",
+    "website_url": "https://www.rockwellautomation.com/en-us/products/hardware/allen-bradley/drives.html",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/PowerFlexDrawing.jpg",
+    "booking_url": "https://www.rockwellautomation.com/en-us/company/about-us/contact-us.html"
+  },
+  {
+    "QRType": "Fire Extinguisher",
+    "video_link": "https://www.youtube.com/watch?v=p3wlQafkskI",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/FireProtecion.pdf",
+    "website_url": "https://www.amerex-fire.com/products/fire-extinguishers/portable-fire-extinguishers/abc/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/FireExtinguisher.jpg",
+    "booking_url": "https://www.amerex-fire.com/about/contact-us/"
+  },
+  {
+    "QRType": "Security Processor",
+    "video_link": "https://www.youtube.com/watch?v=esgXeDhqziI&t=16s",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/SecurityProcessorDatasheet.pdf",
+    "website_url": "https://mall.industry.siemens.com/mall/en/WW/Catalog/Products/10234112?tree=CatalogTree",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/SecurityProcessorImage.jpg",
+    "booking_url": "https://mall.industry.siemens.com/aspa_app?showContact=1&lang=en&cntryid=WW&nodekey=&comptcid=v"
+  },
+  {
+    "QRType": "Drilling Rig",
+    "video_link": "https://www.youtube.com/watch?v=UpDkogbfwSU",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Rig-Inventory-and-Spec-Sheet.pdf",
+    "website_url": "https://www.petrorigs.com/ad/ideco-1200hp-scr-rig/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Rig.jpg",
+    "booking_url": "https://www.petrorigs.com/register/"
+  },
+  {
+    "QRType": "Ball Valve",
+    "video_link": "https://www.youtube.com/watch?v=s5WC5UyXx4w",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Ball-valve-PK05.pdf",
+    "website_url": "https://www.tfwvalve.com/Stainless-Steel-Pneumatic-Actuator-Flanged-Ball-Valve-pd44250085.html",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/BallValve.jpg",
+    "booking_url": "https://www.tfwvalve.com/contactus.html"
+  },
+  {
+    "QRType": "Butterfly Valve",
+    "video_link": "https://www.youtube.com/watch?v=5n8CJlppdw4",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/ButterFlyWalveManual.pdf",
+    "website_url": "https://buildings.honeywell.com/us/en/products/by-category/building-management/field-devices/valves/butterfly-valves/vr-series-resilient-seat-butterfly-valves#overview",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/ButterFlyValveDrawing.jpg",
+    "booking_url": "https://buildings.honeywell.com/us/en/support/contact-sales"
+  },
+  {
+    "QRType": "Boiler",
+    "video_link": "https://www.youtube.com/watch?v=v6FCVqGVqu0",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/BoilerCatalogue.pdf",
+    "website_url": "https://www.bosch-industrial.com/global/en/ocs/commercial-industrial/electric-steam-boiler-elsb-19175285-p/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/BoilerDiagram.jpg",
+    "booking_url": "https://www.bosch-industrial.com/global/en/commercial-industrial/knowledge/contacts/contact-form/"
+  },
+  {
+    "QRType": "Compressor",
+    "video_link": "https://www.youtube.com/watch?v=4V69VQD2kdA&t=4s",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/CompressorManual.pdf",
+    "website_url": "https://www.almig.de/de/produkte/drucklufterzeugung/schraubenkompressoren/schraubenkompressoren-g-drive-",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/CompressorDrawing.jpg",
+    "booking_url": "https://www.almig.de/en/products/compressed-air-generation/screw-compressors/screw-compressors-g-drive-t"
+  },
+  {
+    "QRType": "Generator",
+    "video_link": "https://www.youtube.com/watch?v=aQ-y8H0-9YM",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/GeneratorManual.pdf",
+    "website_url": "https://www.hahn-profis.de/hahn-sohn-diesel-generator-hde450rst3-3/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/GeneratorDrawing.jpg",
+    "booking_url": "https://www.hahn-profis.de/en/kontakt/"
+  },
+  {
+    "QRType": "Synchronous Motors",
+    "video_link": "https://www.youtube.com/watch?v=Tk3lNBSAgEg",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Synchronous_motors.pdf",
+    "website_url": "https://new.abb.com/motors-generators/synchronous-motors",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/SynchronousMotorDrawing.jpg",
+    "booking_url": "https://new.abb.com/contact-centers"
+  },
+  {
+    "QRType": "Gas Analyzer",
+    "video_link": "https://www.youtube.com/watch?v=HZTM4h8LvBw",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Gas-Analyzer.pdf",
+    "website_url": "https://new.abb.com/products/measurement-products/analytical/laser-gas-analyzers/laser-analyzers/lgr-icos-industrial-wallmount-analyzers/lgr-icos-wallmount-analyzer-gla533-series/sensi-plus-natural-gas-analyzer",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/GasAnalyzer.jpg",
+    "booking_url": "https://campaign-pa.abb.com/l/961062/2023-11-30/4xdrt"
+  },
+  {
+    "QRType": "Radar Level Sensor",
+    "video_link": "https://www.youtube.com/watch?v=0g7mYNggELs",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/RadarLevelSensor.pdf",
+    "website_url": "https://abmsensor.com/product/explosion-proof-radar-level-sensor/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/RadarLevelSensorDrawing.jpg",
+    "booking_url": "https://abmsensor.com/request-a-quote/"
+  },
+  {
+    "QRType": "Wireless Ultrasonic Sensor",
+    "video_link": "https://www.youtube.com/watch?v=iWcD1T6y9S8",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/WirelessUltrasonicLevelSensor.pdf",
+    "website_url": "https://abmsensor.com/product/cellular-battery-ultrasonic-level-sensor/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/WirelessUltrasonicLevelSensorDrwaing.jpg",
+    "booking_url": "https://abmsensor.com/request-a-quote/"
+  },
+  {
+    "QRType": "Fiber Disc Filter",
+    "video_link": "https://youtu.be/Dh9Q4PrVDwE",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/FiberDiscFilter.pdf",
+    "website_url": "https://www.nordicwater.com/product/dynacloth-discfilter-2/",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/fiberdiscfilter.jpg",
+    "booking_url": "https://www.sulzer.com/en/shared/events/240415-order-intake-q1-2024-publication"
+  },
+  {
+    "QRType": "Muffin Monster",
+    "video_link": "https://www.youtube.com/watch?v=P7wQfWsexv0",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/muffin_monster.pdf",
+    "website_url": "https://www.sulzer.com/en/shared/case-studies/30k-muffin-monster-biogas-facility",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/MuffinMonster.jpg",
+    "booking_url": "https://www.sulzer.com/en/Shared/contact/StandardOverlayContactForm?contactId=C1150"
+  },
+  {
+    "QRType": "Gas Liquid Separator",
+    "video_link": "https://www.youtube.com/watch?v=xJYzoKOlmMw",
+    "pdf_link": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/Gas_Liquid_Separation.pdf",
+    "website_url": "https://www.sulzer.com/en/shared/products/subsea-processing",
+    "map_url": "https://github.com/MuhammadNadeemAUM/OilandGas/blob/main/QRScannerData/GasLiquid%20Separator.jpg",
+    "booking_url": "https://www.sulzer.com/en/shared/contact/contact-us?pageId={6DDDD66B-CCD4-4A6E-AA0C-78F665900EAB}&initialQuestionId={56F24422-A1D7-4640-87E4-A683645B5BDF}"
+  }
+]
